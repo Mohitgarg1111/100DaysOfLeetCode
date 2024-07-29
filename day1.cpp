@@ -21,6 +21,7 @@ public:
                     k--;
                 }
                 else{
+                    //day1 question
                     vector<int> temp={nums[i],nums[j],nums[k]};
                     ans.push_back(temp);
                     j++;
