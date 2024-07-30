@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //7. Reverse Integer
 class Solution {
 public:
@@ -37,3 +38,6 @@ public:
         return str1.substr(0,index);
     }
 };
+=======
+//git seekhna h
+>>>>>>> 486614e9f48b2cf4ec8491384cd63854ff2d5019
